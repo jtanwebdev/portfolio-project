@@ -169,6 +169,7 @@ section {
     font-size: 14px;
     font-weight: 600;
 }
+/* Client Reviews CSS */
 .client-reviews {
     background-color: #EDECE8;
 }
@@ -202,6 +203,8 @@ section {
     text-transform: capitalize;
     margin-bottom: 2px;
 }
+/* About Us Section CSS */
+
 
 /* Blog Section CSS */
 .blog-center-text h2{
