@@ -218,9 +218,10 @@ section {
     border-radius: 5px;
 }
 .update-cart {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(380px, auto));
-    gap: 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 4rem;
 }
 .cart h5 {
     color: #707070;
