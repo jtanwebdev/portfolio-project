@@ -276,6 +276,21 @@ section {
 .social-icons i:hover {
     color: #ee1c47;
 }
+#email-btn {
+    display: inline-block;
+    color: #2c2c2c;
+    font-size: 14px;
+    font-weight: 500px;
+    text-transform: capitalize;
+    border: 2px solid #2c2c2c;
+    padding: 5px 20px;
+    margin-bottom: 5%;
+}
+#email-btn:hover {
+    background-color: #2c2c2c;
+    color: #fff;
+    cursor: pointer;
+}
 
 .footer {
     text-align: center;
